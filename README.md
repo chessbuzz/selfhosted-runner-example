@@ -1,2 +1,1 @@
-# selfhosted-runner-example
-Self Hosted Runner Example
+# Self Hosted Runner Example
